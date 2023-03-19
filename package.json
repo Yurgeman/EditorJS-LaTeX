@@ -1,5 +1,5 @@
 {
-  "name": "EditorJS LaTeX",
+  "name": "@yurgeman/editorjs-latex",
   "version": "1.0.0",
   "description": "LaTeX block support for EditorJS",
   "main": "./index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdgaziur/EditorJS-LaTeX.git"
+    "url": "git+https://github.com/Yurgeman/EditorJS-LaTeX.git"
   },
   "keywords": [
     "EditorJS",
@@ -17,9 +17,9 @@
   "author": "MD Gaziur Rahman Noor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mdgaziur/EditorJS-LaTeX/issues"
+    "url": "https://github.com/Yurgeman/EditorJS-LaTeX/issues"
   },
-  "homepage": "https://github.com/mdgaziur/EditorJS-LaTeX#readme",
+  "homepage": "https://github.com/Yurgeman/EditorJS-LaTeX#readme",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
